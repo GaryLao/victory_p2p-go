@@ -1,6 +1,7 @@
 .idea/
 .vscode/
 .comate/
+.codex/
 
 bin/
 cmd_bak/
@@ -20,3 +21,6 @@ cmd_bak/
 coverage/
 dist/
 tmp/
+
+.DS_Store
+Thumbs.db
