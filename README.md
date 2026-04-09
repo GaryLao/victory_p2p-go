@@ -58,3 +58,7 @@ Other entry points follow the same pattern:
 ## Repository Hygiene
 
 The root `.gitignore` excludes local IDE settings, generated binaries, backup archives, logs, and private key material. The root `.gitattributes` keeps text-file normalization predictable while preserving CRLF for Windows shell scripts.
+
+## Further Reading
+
+- Runtime and deployment notes: [`docs/runtime-guide.md`](docs/runtime-guide.md)
